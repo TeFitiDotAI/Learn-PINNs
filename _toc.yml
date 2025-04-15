@@ -7,3 +7,11 @@ chapters:
 - file: markdown
 - file: notebooks
 - file: markdown-notebooks
+- file: PINN_1D_Wave_Equation_JAX.ipynb
+- file: PINN_1D_Wave_Equation_TensorFlow.ipynb
+- file: PINN_1D_Wave_Equation_PyTorch.ipynb
+- file: PINN_1D_Wave_Equation_JAX_TensorFlow.ipynb
+- file: PINN_1D_Wave_Equation_JAX_PyTorch.ipynb
+- file: PINN_1D_Wave_Equation_TensorFlow_PyTorch.ipynb
+- file: PINN_1D_Wave_Equation_JAX_TensorFlow_PyTorch.ipynb
+- file: PINN_1D_Wave_Equation_JAX_TensorFlow_PyTorch_JAX.ipynb
